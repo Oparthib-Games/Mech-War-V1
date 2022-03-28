@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 72b6e7ada1fb7314aa40f097573e55bb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: canon
+    100002: //RootNode
+    100004: chest
+    100006: head
+    100008: hip
+    100010: L_arm1
+    100012: L_feet
+    100014: L_hand
+    100016: L_leg
+    100018: L_thigh
+    100020: polySurface1
+    100022: polySurface1 1
+    100024: polySurface2
+    100026: polySurface3
+    100028: polySurface4
+    100030: R_arm1
+    100032: R_feet
+    100034: R_hand1
+    100036: R_knee
+    100038: R_thigh
+    100040: R_wrist1
+    100042: stomach
+    100044: transform1
+    100046: transform2
+    100048: transform3
+    100050: transform4
+    100052: transform5
+    400000: canon
+    400002: //RootNode
+    400004: chest
+    400006: head
+    400008: hip
+    400010: L_arm1
+    400012: L_feet
+    400014: L_hand
+    400016: L_leg
+    400018: L_thigh
+    400020: polySurface1
+    400022: polySurface1 1
+    400024: polySurface2
+    400026: polySurface3
+    400028: polySurface4
+    400030: R_arm1
+    400032: R_feet
+    400034: R_hand1
+    400036: R_knee
+    400038: R_thigh
+    400040: R_wrist1
+    400042: stomach
+    400044: transform1
+    400046: transform2
+    400048: transform3
+    400050: transform4
+    400052: transform5
+    2100000: black_mat
+    2100002: chest_mat
+    2100004: body_mat
+    2100006: lambert2
+    2100008: white_mat
+    2100010: blade_mat
+    2100012: lambert3
+    2300000: canon
+    2300002: chest
+    2300004: hip
+    2300006: L_arm1
+    2300008: L_feet
+    2300010: L_hand
+    2300012: L_leg
+    2300014: L_thigh
+    2300016: polySurface1 1
+    2300018: R_arm1
+    2300020: R_feet
+    2300022: R_hand1
+    2300024: R_knee
+    2300026: R_thigh
+    2300028: R_wrist1
+    2300030: stomach
+    3300000: canon
+    3300002: chest
+    3300004: hip
+    3300006: L_arm1
+    3300008: L_feet
+    3300010: L_hand
+    3300012: L_leg
+    3300014: L_thigh
+    3300016: polySurface1 1
+    3300018: R_arm1
+    3300020: R_feet
+    3300022: R_hand1
+    3300024: R_knee
+    3300026: R_thigh
+    3300028: R_wrist1
+    3300030: stomach
+    4300000: stomach
+    4300002: chest
+    4300004: polySurface1
+    4300006: L_arm1
+    4300008: L_hand
+    4300010: canon
+    4300012: R_arm1
+    4300014: R_hand1
+    4300016: R_wrist1
+    4300018: hip
+    4300020: L_thigh
+    4300022: L_leg
+    4300024: L_feet
+    4300026: R_thigh
+    4300028: R_knee
+    4300030: R_feet
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

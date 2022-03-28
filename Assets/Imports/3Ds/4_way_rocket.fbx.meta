@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: ff0775429551d26428c5ac7bde906152
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: B1
+    100002: B2
+    100004: B3
+    100006: B4
+    100008: base
+    100010: body
+    100012: head
+    100014: L1
+    100016: L2
+    100018: L3
+    100020: L4
+    100022: left_shell
+    100024: pCube2
+    100026: pCylinder1
+    100028: polySurface1
+    100030: polySurface14
+    100032: polySurface15
+    100034: polySurface2
+    100036: polySurface3
+    100038: //RootNode
+    100040: right_shell
+    100042: shell_cover
+    100044: side_gun
+    100046: transform1
+    100048: transform10
+    100050: transform11
+    100052: transform17
+    100054: transform2
+    100056: transform3
+    400000: B1
+    400002: B2
+    400004: B3
+    400006: B4
+    400008: base
+    400010: body
+    400012: head
+    400014: L1
+    400016: L2
+    400018: L3
+    400020: L4
+    400022: left_shell
+    400024: pCube2
+    400026: pCylinder1
+    400028: polySurface1
+    400030: polySurface14
+    400032: polySurface15
+    400034: polySurface2
+    400036: polySurface3
+    400038: //RootNode
+    400040: right_shell
+    400042: shell_cover
+    400044: side_gun
+    400046: transform1
+    400048: transform10
+    400050: transform11
+    400052: transform17
+    400054: transform2
+    400056: transform3
+    2100000: lambert1
+    2100002: black_mat
+    2100004: gray_mat
+    2100006: red_mat
+    2100008: paste_mat
+    2100010: dark_red_mat
+    2100012: white_mat
+    2300000: B1
+    2300002: B2
+    2300004: B3
+    2300006: B4
+    2300008: base
+    2300010: body
+    2300012: head
+    2300014: L1
+    2300016: L2
+    2300018: L3
+    2300020: L4
+    2300022: left_shell
+    2300024: polySurface14
+    2300026: polySurface15
+    2300028: right_shell
+    2300030: side_gun
+    3300000: B1
+    3300002: B2
+    3300004: B3
+    3300006: B4
+    3300008: base
+    3300010: body
+    3300012: head
+    3300014: L1
+    3300016: L2
+    3300018: L3
+    3300020: L4
+    3300022: left_shell
+    3300024: polySurface14
+    3300026: polySurface15
+    3300028: right_shell
+    3300030: side_gun
+    4300000: base
+    4300002: L1
+    4300004: B1
+    4300006: L2
+    4300008: B2
+    4300010: L3
+    4300012: B3
+    4300014: L4
+    4300016: B4
+    4300018: body
+    4300020: right_shell
+    4300022: side_gun
+    4300024: left_shell
+    4300026: polySurface14
+    4300028: polySurface15
+    4300030: head
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

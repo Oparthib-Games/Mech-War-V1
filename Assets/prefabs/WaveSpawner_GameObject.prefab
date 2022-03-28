@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5629114425067362551
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5629114425067362549}
+  - component: {fileID: 5629114425067362548}
+  m_Layer: 0
+  m_Name: WaveSpawner_GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5629114425067362549
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5629114425067362551}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5629114425067362548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5629114425067362551}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e04088924470cba4188ade6477db4f59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WaveAry:
+  - name: wave 01
+    enemyAry:
+    - {fileID: 6984752340336372727, guid: c227ca23412b52c41a6f8f4c3303d145, type: 3}
+    - {fileID: 5854929091464700475, guid: 1ff2c156542ab3c4f874c14e8c6a4696, type: 3}
+    - {fileID: 5008442818313046233, guid: f9495e84fc8dbcb429e14f04504c1461, type: 3}
+    rate: 10
+  - name: wave 02
+    enemyAry:
+    - {fileID: 3236500191156212125, guid: a257e11617758cf43afec9a8d35d9b5a, type: 3}
+    - {fileID: 5854929091464700475, guid: 1ff2c156542ab3c4f874c14e8c6a4696, type: 3}
+    - {fileID: 5854929091464700475, guid: 1ff2c156542ab3c4f874c14e8c6a4696, type: 3}
+    - {fileID: 3170152542790366585, guid: 31e3bccd1d4553e4d8990686e1ef6e12, type: 3}
+    - {fileID: 5008442818313046233, guid: f9495e84fc8dbcb429e14f04504c1461, type: 3}
+    - {fileID: 6984752340336372727, guid: c227ca23412b52c41a6f8f4c3303d145, type: 3}
+    rate: 10
+  - name: wave 03
+    enemyAry:
+    - {fileID: 3236500191156212125, guid: a257e11617758cf43afec9a8d35d9b5a, type: 3}
+    - {fileID: 5854929091464700475, guid: 1ff2c156542ab3c4f874c14e8c6a4696, type: 3}
+    - {fileID: 3170152542790366585, guid: 31e3bccd1d4553e4d8990686e1ef6e12, type: 3}
+    - {fileID: 5854929091464700475, guid: 1ff2c156542ab3c4f874c14e8c6a4696, type: 3}
+    - {fileID: 3170152542790366585, guid: 31e3bccd1d4553e4d8990686e1ef6e12, type: 3}
+    - {fileID: 6984752340336372727, guid: c227ca23412b52c41a6f8f4c3303d145, type: 3}
+    - {fileID: 5854929091464700475, guid: 1ff2c156542ab3c4f874c14e8c6a4696, type: 3}
+    - {fileID: 5008442818313046233, guid: f9495e84fc8dbcb429e14f04504c1461, type: 3}
+    rate: 12
+  - name: wave 03
+    enemyAry:
+    - {fileID: 6984752340336372727, guid: c227ca23412b52c41a6f8f4c3303d145, type: 3}
+    - {fileID: 5854929091464700475, guid: 1ff2c156542ab3c4f874c14e8c6a4696, type: 3}
+    - {fileID: 3170152542790366585, guid: 31e3bccd1d4553e4d8990686e1ef6e12, type: 3}
+    - {fileID: 5854929091464700475, guid: 1ff2c156542ab3c4f874c14e8c6a4696, type: 3}
+    - {fileID: 3170152542790366585, guid: 31e3bccd1d4553e4d8990686e1ef6e12, type: 3}
+    - {fileID: 6984752340336372727, guid: c227ca23412b52c41a6f8f4c3303d145, type: 3}
+    - {fileID: 5854929091464700475, guid: 1ff2c156542ab3c4f874c14e8c6a4696, type: 3}
+    - {fileID: 5008442818313046233, guid: f9495e84fc8dbcb429e14f04504c1461, type: 3}
+    - {fileID: 5008442818313046233, guid: f9495e84fc8dbcb429e14f04504c1461, type: 3}
+    - {fileID: 5008442818313046233, guid: f9495e84fc8dbcb429e14f04504c1461, type: 3}
+    rate: 17
+  X: 0
+  TimeBeforeEnemySpawn: 40
+  timeBetweenWave: 5
+  waveCountDown: 0
+  Search_Countdown: 7
+  spawnPoint:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  EnemyArrivesText: {fileID: 0}

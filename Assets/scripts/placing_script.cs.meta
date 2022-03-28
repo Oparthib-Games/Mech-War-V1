@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d8f6fc1d58b9e14f95cca9f4f79593e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - base_mat_access: {instanceID: 0}
+  - object_placed_on_me: {instanceID: 0}
+  - PlacingParticle: {instanceID: 0}
+  - clip: {fileID: 8300000, guid: 399850133c9311d4487560f05b12815a, type: 3}
+  executionOrder: 200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
